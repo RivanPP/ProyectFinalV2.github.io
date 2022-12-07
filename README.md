@@ -19,6 +19,8 @@ Instalar NodeJs
 Con estos 4 sencillos pasos ya tendremos instalado y disponible para utilizar todo el potencial de Node.js junto con el instalador de paquetes NPM.
 
 
+
+
 Instalar React
 
 Paso 1. Instalar NodeJS en su ultima versión, para eso entraremos a su web oficial y descargaremos el instalador más actualizado https://nodejs.org/es/
@@ -54,3 +56,22 @@ Puedes comprobar la versión de React que tienes dentro del fichero package.json
 Ahora tendremos disponible la webapp de React 16 en http://localhost:3000/ y veremos nuestro proyecto corriendo, con la página de bienvenida por defecto.
 
 Con esto ya sabemos como instalar React desde cero y como generar un proyecto base.
+
+
+Correr server Node js
+
+1-Entrar al directorio del proyecto
+
+2-Instalar express si no lo tienes: 
+
+npm install express
+
+3-Correr 
+
+npm install 
+
+para descargar las dependencias especificadas en el package.json
+
+4-Ejecutar 
+
+node app.js
