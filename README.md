@@ -2,7 +2,7 @@ Instalar NodeJs
 
 1. Entrar en https://nodejs.org/es/download/ y descargar el instalador de Node.js en el sistema operativo deseado. Podemos elegir entre Windows, Mac y Linux.
 
-https://raw.githubusercontent.com/RivanPP/ProyectFinalV2.github.io/master/assets/nodejs1.png
+![Image text](https://github.com/RivanPP/ProyectFinalV2.github.io/blob/main/nodejs1.png)
 
 2. Ejecutar el instalador que acabamos de descargar. Simplemente debemos avanzar en el proceso de instalación.
 https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
